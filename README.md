@@ -1,36 +1,35 @@
-Entendendo o Desafio
- 
-Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas 😎
- 
-Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma.
- 
-Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.
- 
-Instruções para entrega
+# 🦸‍♂️ Desafio Classificador de Nível de Herói
 
-# 1️⃣ Desafio Classificador de nível de Herói
+## 📋 Descrição
 
-**O Que deve ser utilizado**
+Este projeto foi desenvolvido como parte da **Formação Lógica de Programação** da [DIO](https://www.dio.me/). O objetivo é classificar heróis com base em sua experiência (XP), utilizando conceitos fundamentais de programação, como variáveis, operadores, laços de repetição e estruturas de decisão.
 
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
 
-## Objetivo
+## 🛠️ Tecnologias Utilizadas
 
-Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+- **JavaScript**: Linguagem de programação principal utilizada no projeto.
+- **Python**: Linguagem de programação alternativa utilizada no projeto.
 
-Se XP for menor do que 1.000 = Ferro
-Se XP for entre 1.001 e 2.000 = Bronze
-Se XP for entre 2.001 e 5.000 = Prata
-Se XP for entre 5.001 e 7.000 = Ouro
-Se XP for entre 7.001 e 8.000 = Platina
-Se XP for entre 8.001 e 9.000 = Ascendente
-Se XP for entre 9.001 e 10.000= Imortal
-Se XP for maior ou igual a 10.001 = Radiante
 
-## Saída
+## 🚀 Como Executar o Projeto
 
-Ao final deve se exibir uma mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**"
+1. **Clone o Repositório**:
+   ```bash
+   git clone https://github.com/lyraleo23/desafio-classificador-heroi.git
+   cd desafio-classificador-heroi
+   ```
+2. **Abra o Arquivo HTML**:
+   Abra o arquivo index.html em seu navegador preferido para interagir com a aplicação.
+
+   
+## 🧠 Conceitos Aplicados
+
+- **Variáveis**: Armazenamento de dados, como o nome do herói e sua experiência.
+- **Estruturas de Decisão**: Classificação do herói com base em sua XP.
+
+
+## 📞 Contato
+
+- **Autor**: Leonardo
+- **GitHub**: [lyraleo23](https://github.com/lyraleo23)
+- **Linkedin**: [leonardo-lyra](https://www.linkedin.com/in/leonardo-lyra/)
