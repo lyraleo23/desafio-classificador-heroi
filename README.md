@@ -18,8 +18,6 @@ Este projeto foi desenvolvido como parte da **Formação Lógica de Programaçã
    git clone https://github.com/lyraleo23/desafio-classificador-heroi.git
    cd desafio-classificador-heroi
    ```
-2. **Abra o Arquivo HTML**:
-   Abra o arquivo index.html em seu navegador preferido para interagir com a aplicação.
 
    
 ## 🧠 Conceitos Aplicados
